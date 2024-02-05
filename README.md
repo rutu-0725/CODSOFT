@@ -1,6 +1,6 @@
 # todo_app
 
-A Flutter todo app by Bibek Dhakal.
+A Flutter TaskTracker app by  Rutuja Pawar.
 
 ## Getting Started
 
